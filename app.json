@@ -4,23 +4,23 @@
   "env": {
     "SF_CLIENT_ID": {
         "description": "Consumer key of your Salesforce Connected App",
-        "value":""
+        "value":"3MVG95jctIhbyCpo2OAOMrjR4ZgHVJaNYcMCEx41eDvg5PVVlgdWqH0Retw5HA07h.mJ02x8DOFZ6XFcvke7b"
     },
     "SF_CLIENT_SECRET": {
         "description": "Consumer secret of your Salesforce Connected App",
-        "value":""
+        "value":"F597B096728CA88F3DB014DE0B51A477EDEC5AFF52C00AFA219AE14B29C3DB79"
     },
     "SF_USER_NAME": {
         "description": "Salesforce username for your integration user",
-        "value":""
+        "value":"e-sign@embrace.prod"
     },
     "SF_USER_PASSWORD": {
         "description": "Salesforce password for your integration user",
-        "value":""
+        "value":"Sign!1234"
     },
     "SF_ENVIRONMENT": {
         "description": "production or sandbox",
-        "value":"sandbox"
+        "value":"production"
     }
   }
 }
